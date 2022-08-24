@@ -1,1 +1,1 @@
-# patika-html1-odev
+# Patika.dev sitesinin HTML eğitiminin ilk ödevidir.
